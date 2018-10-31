@@ -50,7 +50,7 @@ function fibonacciRecursive(n) {
 
 
 const fibLoop = fibonacciLoop(n);
-alert('Сycle method = ' + fibLoop);
+alert('Loop method = ' + fibLoop);
 
 const fibArray = fibonacciArray(n);
 alert('Array method = ' + fibArray);
